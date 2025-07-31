@@ -36,7 +36,7 @@ java -jar landlords-client/target/landlords-client-#{version}.jar
 ![demo](demo.gif)
 
 ### 出牌规则
-所有牌型：
+所有牌型1：
 ```
 ┌──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐──┐
 │3 |4 |5 |6 |7 |8 |9 |10|J |Q |K |A |2 |S |X |
